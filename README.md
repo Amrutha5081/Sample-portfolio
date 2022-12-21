@@ -6,7 +6,8 @@ A simple SPA Portfolio template for developer/designers built with React. Use it
 ## Preview
 https://photos.app.goo.gl/FzsnJrLNwwn8HdPL9
 
-demo website - https://portsample.vercel.app/
+To view the demo - 
+<a href= "https://portsample.vercel.app/">Click here</a>
 
 ## How to use
 1. Clone/Download the repo.
